@@ -1,0 +1,7 @@
+{
+    "from":"*********@gmail.com",
+	"password":"**********",
+	"to":["*********@gmail.com"],
+	"smtpHost":"smtp.gmail.com",
+	"smtpPort":"587"
+}
